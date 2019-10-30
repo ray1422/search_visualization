@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1572434277 source:c:\users\user\desktop\search_visualization\main.cpp
+	<iostream>
+	"./search.cpp"
+
+1572434365 c:\users\user\desktop\search_visualization\search.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<cstring>
+	"./console.cpp"
+
+1572429405 source:c:\users\user\desktop\search_visualization\search.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<cstring>
+	"./console.cpp"
+
+1572429662 source:c:\users\user\desktop\search_visualization\console.cpp
+	<string>
+	<conio.h>
+	<windows.h>
+
+1572432146 c:\users\user\desktop\search_visualization\console.cpp
+	<string>
+	<conio.h>
+	<windows.h>
+
